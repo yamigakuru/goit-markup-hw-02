@@ -6,7 +6,8 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    color: var(--primary-color);
+    color: #434455;
+    color: var(--additional-color);
 }
 
 .logo {
@@ -111,6 +112,7 @@ body{
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
     text-transform: capitalize;
     color: #2E2F42;
 }
@@ -128,6 +130,7 @@ body{
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
     text-transform: capitalize;
     color: var(--primary-color);
 }
